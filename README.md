@@ -43,7 +43,7 @@ The examples below use the [SVG version](CWL-Logo-nofonts.svg) in order to be _s
 
 ```html
 <a href="http://www.commonwl.org/" 
-  <img alt="Common Workflow Language" 
-   src="https://cdn.rawgit.com/common-workflow-language/logo/0b98d341/CWL-Logo-nofonts.svg" type="image/svg" width="100">
+  <img alt="Common Workflow Language" type="image/svg" width="100"
+   src="https://cdn.rawgit.com/common-workflow-language/logo/0b98d341/CWL-Logo-nofonts.svg" >
 </a>
 ```
