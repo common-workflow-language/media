@@ -14,7 +14,7 @@ the [GNU Lesser General Public License, version 3](https://www.gnu.org/licenses/
 or, at your option, of
 the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
 
-If used under CC-BY-SA we'll consider a link to http://www.commonwl.org/ as sufficient attribution.
+If used under CC-BY-SA we'll consider http://www.commonwl.org/ or [10.6084/m9.figshare.3115156.v2](https://doi.org/10.6084/m9.figshare.3115156.v2) as sufficient attribution.
 
 ## Which logo file?
 
