@@ -29,6 +29,11 @@ If used under CC-BY-SA we'll consider http://www.commonwl.org/ or [10.6084/m9.fi
 
 Note that except for `CWL-Logo-nofonts.svg` the above files contain suggested whitespace border which you may want to trim.
 
+## Official color
+
+The official CWL color is #B5314C
+![Official CWL color example, B5314C](CWL_primary_color_B5314C.png)
+
 ## Example usage
 
 The examples below use the [SVG version](CWL-Logo-nofonts.svg) in order to be _scalable_ (e.g. for smart phones and retina displays).
