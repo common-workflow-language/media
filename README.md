@@ -52,3 +52,25 @@ The examples below use the [SVG version](CWL-Logo-nofonts.svg) in order to be _s
    src="https://cdn.rawgit.com/common-workflow-language/logo/0b98d341/CWL-Logo-nofonts.svg" >
 </a>
 ```
+
+## Unofficial versions
+
+While unoffical these are still very much appreciated!
+
+<table>
+   	<thead>
+		<tr>
+			<th>Icon</th>
+			<th>Name</th>
+			<th>Codepoint</th>
+		</tr>
+	</thead>
+<tbody><tr><td align="center"><a name="CWL" href="https://cdn.rawgit.com/file-icons/source/master/svg/CWL.svg"><img src="https://cdn.rawgit.com/file-icons/source/master/svg/CWL.svg" height="34" valign="bottom" hspace="3" alt="&#x29D9;"/></a></td><td><b>CWL</b></td><td><a name="29D9"></a><code>\29D9</code></td></tr></tbody>
+</table>
+
+(from the [file-icons character map](https://github.com/file-icons/source/blob/master/charmap.md))
+
+https://github.com/file-icons/source/blob/master/svg/CWL.svg
+
+
+(Used in https://github.com/file-icons/atom )
