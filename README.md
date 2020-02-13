@@ -7,7 +7,7 @@
 
 ## Copyright and license
 
-(C) Copyright 2016 The Common Workflow Language Project
+(C) Copyright 2016 Software Freedom Conservancy, Inc; Common Workflow Language project
 
 Released under the terms of
 the [GNU Lesser General Public License, version 3](https://www.gnu.org/licenses/lgpl-3.0.html) or any later version; 
