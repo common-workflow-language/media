@@ -23,7 +23,7 @@ If used under CC-BY-SA we'll consider http://www.commonwl.org/ or [10.6084/m9.fi
 * Adding to **Powerpoint**? [CWL-Logo-VGA.png](CWL-Logo-VGA.png) for slides, or [CWL-Logo-4k.png](CWL-Logo-4k.png) for print 
 * Need **Powerpoint** Template? [CWL-Slides-Template.pptx](CWL-Slides-Template.pptx) can be used for slides
 * Making a **poster** or print material in editor that can't import SVG (really?) [CWL-Logo-4k.png](CWL-Logo-4k.png)
-* Old-school lo-res website **banner**? [](CWL-Logo-Header.png)
+* Old-school lo-res website **banner**? [CWL-Logo-Header.png](CWL-Logo-Header.png)
 * Web/desktop **application**? [CWL-Logo-HD.png](CWL-Logo-HD.png)
 * Small **buttons**? [CWL-Logo-Abbreviated.png](CWL-Logo-Abbreviated.png) (just `CWL`)
 * Are you using **Adobe Illustrator**? Then [CWL-LogoExport.ai](CWL-LogoExport.ai) is the true original - also add font [SourceSansPro-Light](https://github.com/adobe-fonts/source-sans-pro)
